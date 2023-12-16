@@ -1,0 +1,85 @@
+{
+  "questions": [{
+      "prompt": "The death penalty is immoral.",
+      "answers": [
+        {
+          "text": "For the worst of offenses.",
+          "points": [-3, 5, 2, 2]
+        }, {
+          "text": "For the worst of offenses, and for repeat offenders.",
+          "points": [-5, 3, 5, -1]
+        }, {
+          "text": "Under no circumstance.",
+          "points": [5, -2, -6, 4]
+        }
+      ]
+    },
+    {
+    "prompt": "Lower taxes is morally superior to higher taxes.",
+    "answers": [
+      {
+        "text": "Yes, but only for the poor and middle class.",
+        "points": [5, 3, -5, 5]
+      },
+      {
+        "text": "Yes, but only for the rich.",
+        "points": [-6, 3, 5, 5]
+      },
+      {
+        "text": "Yes, but only for corporations.",
+        "points": [-6, 3, 5, 5]
+      }
+    ]
+  },
+  {
+    "prompt": "A just society has strong welfare programs.",
+    "answers": [
+      {
+        "text": "Agree",
+        "points": [5, -4, -2, 2]
+      },
+      {
+        "text": "Disagree",
+        "points": [-4, 5, 2, -2]
+      },
+      {
+        "text": "Neutral",
+        "points": [1, 1, 0, 0]
+      }
+    ]
+  },
+  {
+    "prompt": "Keeping a strong police force with the rule of law is good.",
+    "answers": [
+      {
+        "text": "Agree",
+        "points": [-4, 4, 6, 3]
+      },
+      {
+        "text": "Disagree",
+        "points": [6, -2, -4, 0]
+      },
+      {
+        "text": "Neutral",
+        "points": [1, 1, 1, 2]
+      }
+    ]
+  },
+  {
+    "prompt": "I love a good union.",
+    "answers": [
+      {
+        "text": "Yep!",
+        "points": [6, -3, -5, -5]
+      },
+      {
+        "text": "Nope!",
+        "points": [-2, 2, 3, 3]
+      },
+      {
+        "text": "Neutral!",
+        "points": [2, 0, -1, -1]
+      }
+    ]
+  }]
+}
